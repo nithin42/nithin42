@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nithin42
+- 👋 Hi, I’m @nithin
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data science and machine learning
