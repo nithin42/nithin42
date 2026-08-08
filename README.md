@@ -8,7 +8,7 @@ Senior Software Engineer focused on building robust developer tools, machine lea
 
 | Org | Repo | PR | What it fixed |
 | :--- | :--- | :--- | :--- |
-| Meta | [facebookresearch/hydra](https://github.com/facebookresearch/hydra) | [#3350](https://github.com/facebookresearch/hydra/pull/3350) | Normalize slash-containing group defaults and resolve deferred interpolations early in Defaults List |
+| <img src="https://cdn.simpleicons.org/meta/1877F2" width="16" height="16" /> Meta | [facebookresearch/hydra](https://github.com/facebookresearch/hydra) | [#3350](https://github.com/facebookresearch/hydra/pull/3350) | Normalize slash-containing group defaults and resolve deferred interpolations early in Defaults List |
 
 ---
 
