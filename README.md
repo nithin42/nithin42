@@ -6,7 +6,7 @@ Senior Software Engineer focused on building robust developer tools, machine lea
 
 ### 🚀 Open Source Contributions
 
-#### 🔹 [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
+#### 🔹 [Meta Open Source / Hydra](https://github.com/facebookresearch/hydra)
 * **Contributions to the core engine** for the upcoming Hydra 1.4 release ([PR #3350](https://github.com/facebookresearch/hydra/pull/3350) / [Issue #3222](https://github.com/facebookresearch/hydra/issues/3222)).
 * **What I did:** Implemented normalization logic for slash-containing Defaults List group options, handled deferred interpolation resolutions, added migration-error warnings for legacy configurations, and wrote comprehensive integration tests.
 
@@ -22,7 +22,7 @@ Senior Software Engineer focused on building robust developer tools, machine lea
 ---
 
 ### 🔭 Current Focus & Projects
-* Contributing to core configurations and sweeper/launcher plugins in the Hydra ecosystem.
+* Contributing to core configurations and sweeper/launcher plugins in the Meta Open Source / Hydra ecosystem.
 * Building reproducible, highly modular machine learning workflows.
 * Let's connect! You can find my contributions on GitHub or reach out for collaborations.
 
