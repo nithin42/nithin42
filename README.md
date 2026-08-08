@@ -4,11 +4,11 @@ Senior Software Engineer focused on building robust developer tools, machine lea
 
 ---
 
-### 🚀 Open Source Contributions
+### 🚀 Merged Upstream
 
-#### 🔹 [Meta Open Source / Hydra](https://github.com/facebookresearch/hydra)
-* **Contributions to the core engine** for the upcoming Hydra 1.4 release ([PR #3350](https://github.com/facebookresearch/hydra/pull/3350) / [Issue #3222](https://github.com/facebookresearch/hydra/issues/3222)).
-* **What I did:** Implemented normalization logic for slash-containing Defaults List group options, handled deferred interpolation resolutions, added migration-error warnings for legacy configurations, and wrote comprehensive integration tests.
+| Org | Repo | PR | What it fixed |
+| :--- | :--- | :--- | :--- |
+| Meta | [facebookresearch/hydra](https://github.com/facebookresearch/hydra) | [#3350](https://github.com/facebookresearch/hydra/pull/3350) | Normalize slash-containing group defaults and resolve deferred interpolations early in Defaults List |
 
 ---
 
