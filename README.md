@@ -14,7 +14,7 @@ Senior Software Engineer focused on building robust developer tools, machine lea
 
 ### 🛠️ Core Expertise & Technologies
 
-* **Languages:** C#, Python, SQL, C++, Shell Scripting
+* **Languages:** C#, Python (typing, performance), SQL, C++, Shell Scripting
 * **Frameworks & Libraries:** .NET Core, Hydra, OmegaConf, PyTorch, NumPy, pandas
 * **Developer Tools:** Git, Docker, Antlr4, Ruff, Black, Pyre, pytest
 * **Systems & Infrastructure:** Backend architecture, CI/CD workflows, configuration engineering
