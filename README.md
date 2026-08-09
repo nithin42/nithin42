@@ -1,6 +1,6 @@
 # Hi there! I'm Nithin 👋
 
-Senior Software Engineer focused on building robust developer tools, machine learning pipelines, and backend systems. I am passionate about building scalable C#/.NET backend services, writing clean, typed Python code, and contributing to open-source ecosystems.
+Senior Software Engineer focused on building robust developer tools, machine learning pipelines, and backend systems. I am passionate about building scalable C#/.NET backend services, writing clean, Python code, and contributing to open-source ecosystems.
 
 ---
 
@@ -14,7 +14,7 @@ Senior Software Engineer focused on building robust developer tools, machine lea
 
 ### 🛠️ Core Expertise & Technologies
 
-* **Languages:** C#, Python (typing, performance), SQL, C++, Shell Scripting
+* **Languages:** C#, Python, SQL, C++, Shell Scripting
 * **Frameworks & Libraries:** .NET Core, Hydra, OmegaConf, PyTorch, NumPy, pandas
 * **Developer Tools:** Git, Docker, Antlr4, Ruff, Black, Pyre, pytest
 * **Systems & Infrastructure:** Backend architecture, CI/CD workflows, configuration engineering
