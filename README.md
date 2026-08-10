@@ -8,6 +8,7 @@ Senior Software Engineer focused on building robust developer tools, machine lea
 
 | Org | Repo | PR | What it fixed |
 | :--- | :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/feast-dev/artwork/master/feast-logos/icon/color/feast_icon-color.png" width="16" height="16" /> Feast | [feast-dev/feast](https://github.com/feast-dev/feast) | [#6712](https://github.com/feast-dev/feast/pull/6712) | Fix mypy TorchTensor type alias error |
 | <img src="https://cdn.simpleicons.org/meta/1877F2" width="16" height="16" /> Meta | [facebookresearch/hydra](https://github.com/facebookresearch/hydra) | [#3363](https://github.com/facebookresearch/hydra/pull/3363) | Avoid passing default object_store_memory when connecting to existing Ray cluster |
 | <img src="https://cdn.simpleicons.org/meta/1877F2" width="16" height="16" /> Meta | [facebookresearch/hydra](https://github.com/facebookresearch/hydra) | [#3350](https://github.com/facebookresearch/hydra/pull/3350) | Normalize slash-containing group defaults and resolve deferred interpolations early in Defaults List |
 
