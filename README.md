@@ -15,17 +15,18 @@ Senior Software Engineer focused on building robust developer tools, machine lea
 
 ### 🛠️ Core Expertise & Technologies
 
-* **Languages:** C#, Python (typing, performance), SQL, C++, Shell Scripting
-* **Frameworks & Libraries:** .NET Core, Hydra, OmegaConf, PyTorch, NumPy, pandas
-* **Developer Tools:** Git, Docker, Antlr4, Ruff, Black, Pyre, pytest
-* **Systems & Infrastructure:** Backend architecture, CI/CD workflows, configuration engineering
+* **Languages:** C#, Python (strict typing, async & performance), SQL, C++, Shell Scripting
+* **AI & Data Systems:** Feast (Feature Stores), PyTorch, Ray, AWS DynamoDB, Redis, NumPy, pandas
+* **Frameworks & Architecture:** .NET Core, Hydra, OmegaConf, FastAPI, gRPC, Model Context Protocol (MCP)
+* **Developer Tooling & CI/CD:** Git, Docker, GitHub Actions, Ruff, mypy, Pyre, pytest, Antlr4
 
 ---
 
 ### 🔭 Current Focus & Projects
-* Contributing to core configurations and sweeper/launcher plugins in the Meta Open Source / Hydra ecosystem.
-* Building reproducible, highly modular machine learning workflows.
-* Let's connect! You can find my contributions on GitHub or reach out for collaborations.
+* Contributing to **Feast** (real-time feature stores, low-latency DynamoDB/Redis online stores, and Model Context Protocol).
+* Enhancing core configurations and distributed launchers in the **Meta / Hydra** ecosystem.
+* Building resilient, high-throughput backend services and reproducible ML pipelines.
+* Open to collaborating on open-source ML infrastructure and distributed backend tools.
 
 ---
 
